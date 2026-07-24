@@ -79,9 +79,7 @@ export default function App() {
             <div>
               <h1 className="font-display text-3xl font-semibold text-ink">Bring in your syllabi</h1>
               <p className="mt-1.5 max-w-xl text-sm text-ink/60">
-                Paste the text of a syllabus or upload a PDF/txt file per course. This runs entirely in your
-                browser — it looks for dated items (exams, assignments, readings) using pattern matching, no AI
-                and no network call involved. Review what it finds and fix or add anything it misses below.
+                Paste the text of a syllabus or upload a PDF/txt file per course. Review what it finds and fix or add anything it misses below.
               </p>
             </div>
 
